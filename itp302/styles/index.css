@@ -1,0 +1,24 @@
+
+
+.Indexheader{
+    width: 100%;
+    height: 100px;
+    background-color: aqua;
+}
+
+
+.Indexsidebar{
+    width: 200PX;
+    display: flex;
+    height: 500PX;
+    background-color: cyan;
+
+}
+
+
+
+.Indexfooter{
+    width: 100%;
+    height: 100px;
+    background-color: dodgerblue;
+}
